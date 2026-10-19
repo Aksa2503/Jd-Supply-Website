@@ -355,7 +355,7 @@ footer small {
 .catalogue-items { margin:14px 0 0; padding:13px 0 0 20px; border-top:1px solid #e5edf5; color:#42556a; font-size:14px; line-height:1.75; }
 .catalogue-items li { padding-left:2px; margin-bottom:4px; }
 .catalogue-items li[hidden] { display:none !important; }
-.catalo.catalogue-category:not([open]) .catalogue-items {
+.catalogue-category:not([open]) .catalogue-items {
     display: none;
 }
 
