@@ -355,8 +355,13 @@ footer small {
 .catalogue-items { margin:14px 0 0; padding:13px 0 0 20px; border-top:1px solid #e5edf5; color:#42556a; font-size:14px; line-height:1.75; }
 .catalogue-items li { padding-left:2px; margin-bottom:4px; }
 .catalogue-items li[hidden] { display:none !important; }
-.catalogue-category:not([open]) .catalogue-items { display:block; margin-top:8px; padding:0; border-top:0; list-style:none; }
-.catalogue-category:not([open]) .catalogue-items li:not(:first-child) { display:none; }
+.catalo.catalogue-category:not([open]) .catalogue-items {
+    display: none;
+}
+
+.catalogue-category[open] .catalogue-items {
+    display: block;
+}
 .catalogue-category:not([open]) .catalogue-items li:first-child { margin:0; color:var(--muted); font-size:13px; line-height:1.55; }
 .no-results { padding:20px; color:var(--muted); text-align:center; }
 .catalogue-enquiry { margin-top:28px; padding:24px 15px; border-radius:10px; background:#fff; border:1px solid var(--border); text-align:center; }
