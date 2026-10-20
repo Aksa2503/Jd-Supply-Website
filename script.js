@@ -6,7 +6,7 @@
 
 const catalogueData = [
   {
-    name: "1. Linen, Bedding & Bed Accessories",
+    name: "Linen, Bedding & Bed Accessories",
     items: [
       "Flat and fitted bedsheets in different sizes",
       "Pillow covers, pillow protectors, pillows and inserts",
@@ -18,7 +18,7 @@ const catalogueData = [
     ]
   },
   {
-    name: "2. Bathroom Accessories & Fittings",
+    name: "Bathroom Accessories & Fittings",
     items: [
       "Shower curtains, rods, rings and hooks",
       "Bathmats, anti-slip mats and bathroom rugs",
@@ -32,7 +32,7 @@ const catalogueData = [
     ]
   },
   {
-    name: "3. Guest Toiletries & Amenities",
+    name: "Guest Toiletries & Amenities",
     items: [
       "Guest soaps, shampoos, conditioners and body washes",
       "Body lotions, hand creams and moisturizers",
@@ -47,7 +47,7 @@ const catalogueData = [
     ]
   },
   {
-    name: "4. Guest Room Accessories & Convenience",
+    name: "Guest Room Accessories & Convenience",
     items: [
       "Electric kettles, hospitality trays and tea-coffee kits",
       "Tea, coffee, sugar and milk sachets",
@@ -64,7 +64,7 @@ const catalogueData = [
     ]
   },
   {
-    name: "5. Housekeeping, Cleaning Chemicals & Equipment",
+    name: "Housekeeping, Cleaning Chemicals & Equipment",
     items: [
       "Floor, tile, stone, toilet and bathroom cleaners",
       "Glass, kitchen, multipurpose and disinfectant cleaners",
@@ -81,7 +81,7 @@ const catalogueData = [
     ]
   },
   {
-    name: "6. Laundry, Linen Care & Dry Cleaning",
+    name: "Laundry, Linen Care & Dry Cleaning",
     items: [
       "Laundry detergents, fabric softeners and stain removers",
       "Bleach, whiteners, laundry disinfectants and machine cleaners",
@@ -97,7 +97,7 @@ const catalogueData = [
     ]
   },
   {
-    name: "7. Crockery, Tableware & Food Service",
+    name: "Crockery, Tableware & Food Service",
     items: [
       "Dinner plates, side plates, quarter plates and charger plates",
       "Bowls, platters, serving dishes and food presentation pieces",
@@ -114,7 +114,7 @@ const catalogueData = [
     ]
   },
   {
-    name: "8. Commercial Kitchen & Food Preparation",
+    name: "Commercial Kitchen & Food Preparation",
     items: [
       "Commercial gas ranges, burners, induction units and ovens",
       "Fryers, tandoors, rice cookers, steamers and food warmers",
@@ -133,7 +133,7 @@ const catalogueData = [
     ]
   },
   {
-    name: "9. Chef, Restaurant & Staff Uniforms",
+    name: "Chef, Restaurant & Staff Uniforms",
     items: [
       "Chef coats, jackets, shirts, trousers and chef hats",
       "Aprons, oven mitts, kitchen gloves and hairnets",
@@ -149,7 +149,7 @@ const catalogueData = [
     ]
   },
   {
-    name: "10. Spa, Salon & Wellness Supplies",
+    name: "Spa, Salon & Wellness Supplies",
     items: [
       "Massage sheets, bed rolls, towels, robes and headbands",
       "Hair wraps, slippers, gowns and disposable spa wear",
@@ -167,7 +167,7 @@ const catalogueData = [
     ]
   },
   {
-    name: "11. Swimming Pool & Outdoor Leisure",
+    name: "Swimming Pool & Outdoor Leisure",
     items: [
       "Pool towels, loungers, cushions and sunbeds",
       "Parasols, umbrella bases, side tables and deck chairs",
@@ -184,21 +184,7 @@ const catalogueData = [
     ]
   },
   {
-    name: "13. Fire Safety, Emergency & First Aid",
-    items: [
-      "Fire extinguishers, brackets, fire blankets and fire hoses",
-      "Fire hose reels, buckets, detectors and alarm accessories",
-      "Exit signs, emergency lights and evacuation maps",
-      "Fire-action notices, cabinets, inspection tags and safety signs",
-      "First-aid kits, refills, bandages and wound dressings",
-      "Medical tape, scissors, tweezers, eyewash and burn dressings",
-      "Cold packs, emergency blankets, torches and batteries",
-      "Whistles, megaphones, emergency contact boards and safety vests",
-      "Cones, barrier tape, barricades, spill kits and protective equipment"
-    ]
-  },
-  {
-    name: "14. Electrical, Lighting & Maintenance",
+    name: "Electrical, Lighting & Maintenance",
     items: [
       "LED bulbs, tube lights, panels, downlights and lamps",
       "Night lights, emergency lights and outdoor lighting",
@@ -213,7 +199,7 @@ const catalogueData = [
     ]
   },
   {
-    name: "15. Plumbing, Water Systems & Fittings",
+    name: "Plumbing, Water Systems & Fittings",
     items: [
       "Taps, faucets, mixers and replacement cartridges",
       "Showers, shower hoses, holders and flexible hoses",
@@ -230,7 +216,7 @@ const catalogueData = [
     ]
   },
   {
-    name: "16. Furniture, Decor & Interior",
+    name: "Furniture, Decor & Interior",
     items: [
       "Beds, bed frames, headboards, bunk beds and mattresses",
       "Bedside tables, desks, dressing tables and wardrobes",
@@ -244,71 +230,6 @@ const catalogueData = [
       "Lampshades, decorative lighting, plants, planters and vases",
       "Clocks, organizers, trays, luggage racks and room dividers",
       "Floor protectors, upholstery fabric and furniture repair supplies"
-    ]
-  },
-  {
-    name: "17. Front Office, Reception & Administration",
-    items: [
-      "Reception desks, office chairs and visitor seating",
-      "Key cabinets, key tags, key rings and key-card holders",
-      "Compatible key cards, electronic locks and lock accessories",
-      "Reception bells, queue systems and token dispensers",
-      "Registers, forms, logbooks, reservation books and checklists",
-      "Feedback books, complaint books and suggestion boxes",
-      "Invoices, receipts, cash drawers and bill folders",
-      "Paper, envelopes, folders, pens and office stationery",
-      "Filing systems, cabinets, storage and document organizers",
-      "Computers, monitors, printers, scanners and copier supplies",
-      "Barcode scanners, label printers, POS supplies and thermal paper",
-      "Routers, Wi-Fi equipment, office phones, headsets and UPS units",
-      "Digital signage, room directories, maps, rate cards and nameplates"
-    ]
-  },
-  {
-    name: "18. Security, Access & Guest Protection",
-    items: [
-      "CCTV cameras, recorders, storage and mounting accessories",
-      "Camera housings, cables and compatible surveillance accessories",
-      "Access-control readers, keypads and door accessories",
-      "Door viewers, security chains and room safes",
-      "Torches, walkie-talkies and compatible chargers",
-      "Security badges, lanyards, registers and incident logbooks",
-      "Patrol logs, queue barriers, stanchions and warning signs",
-      "Lockers, key boxes and restricted-area signs",
-      "Reflective vests, rainwear and security accessories",
-      "Anti-slip strips, window locks, child-safety products and emergency boards"
-    ]
-  },
-  {
-    name: "19. Bar, Beverage & Restaurant Accessories",
-    items: [
-      "Bar staff uniforms and aprons",
-      "Wine, champagne, cocktail and beer glasses",
-      "Cocktail shakers, jiggers, strainers, bar spoons and muddlers",
-      "Bottle openers, corkscrews, ice tools and ice buckets",
-      "Beverage dispensers, pitchers, stirrers and straws",
-      "Garnish trays, condiment bottles, caddies and pourers",
-      "Speed rails, bar mats, wine chillers and bottle stands",
-      "Coffee filters, tampers, espresso accessories and milk pitchers",
-      "Knock boxes, tea strainers, infusers and teapots",
-      "Cocktail napkins, coasters, menus and wine lists",
-      "Stock labels, glass brushes, glass racks and glass washers"
-    ]
-  },
-  {
-    name: "20. Events, Banquets & Celebrations",
-    items: [
-      "Banquet tables, chairs, chair covers and sashes",
-      "Tablecloths, table skirting, buffet tables and display stands",
-      "Stages, podiums, backdrops, partitions and red carpets",
-      "Easels, signage, flower arrangements and decorative accessories",
-      "Chafing dishes, food warmers, carriers, trays and racks",
-      "Tea and coffee stations, service trolleys and registration desks",
-      "Queue systems, name cards, table numbers, wristbands and badges",
-      "Microphones, speakers, projectors, screens and AV cables",
-      "Event lighting, notepads, flipcharts, fans and waste bins",
-      "Banners, balloons, non-explosive festive lights and gift packaging",
-      "Wedding decor, seasonal decor, welcome kits and celebration trays"
     ]
   },
   {
@@ -328,7 +249,7 @@ const catalogueData = [
     ]
   },
   {
-    name: "22. Waste Management & Hygiene",
+    name: "Waste Management & Hygiene",
     items: [
       "Pedal bins, swing bins, open bins and sensor bins",
       "Room, bathroom, desk, kitchen and outdoor bins",
@@ -344,7 +265,7 @@ const catalogueData = [
     ]
   },
   {
-    name: "23. Pest Control & Property Sanitation",
+    name: "Pest Control & Property Sanitation",
     items: [
       "Insect light traps, replacement bulbs and fly screens",
       "Fly swatters, approved traps and glue boards",
@@ -357,7 +278,7 @@ const catalogueData = [
     ]
   },
   {
-    name: "24. Drinking Water & Beverage Stations",
+    name: "Drinking Water & Beverage Stations",
     items: [
       "Water dispensers, drip trays and water coolers",
       "Bottle stands, bottle racks and storage accessories",
@@ -367,20 +288,6 @@ const catalogueData = [
       "Tea and coffee trays, tea, coffee and sugar supplies",
       "Hot-water urns, beverage warmers and ice machines",
       "Cleaning accessories, water-testing supplies and descalers"
-    ]
-  },
-  {
-    name: "25. Staff Rooms & Employee Facilities",
-    items: [
-      "Staff lockers, keys, locker plates and storage cabinets",
-      "Benches, shoe racks, tables, chairs and noticeboards",
-      "Staff uniforms, aprons, badges and laundry baskets",
-      "Hangers, attendance registers, rosters and time-clock supplies",
-      "Water dispensers, cups, lunch boxes and food containers",
-      "Fridge organizers, microwaves, kettles and pantry supplies",
-      "Soap, paper towels, mirrors, hooks and storage baskets",
-      "Shoe brushes, first-aid supplies, safety signs and stationery",
-      "Cleaning supplies, waste bins and pantry accessories"
     ]
   },
   {
@@ -400,66 +307,7 @@ const catalogueData = [
     ]
   },
   {
-    name: "27. Hotel Transport, Valet & Luggage",
-    items: [
-      "Luggage carts, bell carts, luggage racks and luggage tags",
-      "Claim tickets, storage labels and baggage accessories",
-      "Valet tags, key cabinets and key-management accessories",
-      "Traffic cones, barriers, reflective vests and parking signs",
-      "Wheel stoppers, umbrellas, raincoats and protective covers",
-      "Vehicle cleaning cloths, glass cleaners and interior cleaners",
-      "Buckets, brushes, vehicle mats and seat covers",
-      "Vehicle first-aid supplies, torches and driver uniforms",
-      "Gloves, badges, lanyards, trip logs and inspection records",
-      "Tyre inflators and suitable vehicle-maintenance accessories",
-      "Shuttle-service signs and transport accessories"
-    ]
-  },
-  {
-    name: "28. Children, Family & Baby Amenities",
-    items: [
-      "Baby cots, travel cots, mattresses and cot sheets",
-      "Baby blankets, mattress protectors and high chairs",
-      "Booster seats, feeding accessories and baby baths",
-      "Baby towels, washcloths, robes and changing mats",
-      "Nappy bins, disposal bags and baby toiletries",
-      "Child-friendly crockery and family welcome kits",
-      "Corner guards, cabinet locks and bed guards",
-      "Strollers, children's books, puzzles and coloring supplies",
-      "Age-appropriate toys and play accessories"
-    ]
-  },
-  {
-    name: "29. Technology, Smart Rooms & Connectivity",
-    items: [
-      "Televisions, TV mounts, remotes, cables and adapters",
-      "Charging stations and multi-device charging accessories",
-      "Routers, wireless access points, network cables and switches",
-      "Room telephones, compatible electronic locks and key cards",
-      "Thermostats, room controls and occupancy sensors",
-      "Door sensors, smart plugs and compatible automation accessories",
-      "Digital signage, printer supplies and network accessories",
-      "UPS units, batteries, surge protection and cable management",
-      "Device stands and room-connectivity accessories"
-    ]
-  },
-  {
-    name: "30. Office, Accounts & Inventory Supplies",
-    items: [
-      "Purchase-order books, requisition forms and stock registers",
-      "Goods-received records, delivery books and invoice folders",
-      "Inventory labels, bin labels, barcodes and label printers",
-      "Scanners, pens, paper, notebooks, registers and diaries",
-      "Calendars, files, folders and clipboards",
-      "Staplers, hole punches, clips, scissors, rulers and tape",
-      "Glue, toner, cash boxes, receipt books and calculators",
-      "Desk organizers, cabinets, storage racks and noticeboards",
-      "Whiteboards, shredders, laminators and binders",
-      "Visitor registers, courier registers and dispatch books"
-    ]
-  },
-  {
-    name: "31. Building Repair, Painting & Maintenance",
+    name: "Building Repair, Painting & Maintenance",
     items: [
       "Toolkits, screwdrivers, spanners, pliers and cutters",
       "Hammers, wrenches, measuring tapes, levels and torches",
@@ -491,22 +339,7 @@ const catalogueData = [
     ]
   },
   {
-    name: "33. Dining Consumables, Breakfast & Pantry",
-    items: [
-      "Tea, coffee, green tea, herbal tea and hot chocolate",
-      "Sugar, sweeteners, milk powder and approved beverage supplies",
-      "Seasonings, condiments, jam, honey and portion spreads",
-      "Biscuits, snacks, minibar snacks and packaged beverages",
-      "Breakfast cereals, oats, portion cups and dispensers",
-      "Food labels, batch labels, expiry labels and rotation supplies",
-      "Pantry jars, scoops, food-storage containers and organizers",
-      "Tea strainers, coffee filters and beverage accessories",
-      "Disposable cups, stirrers, napkins, lids and food packaging",
-      "Food-storage and pantry hygiene supplies"
-    ]
-  },
-  {
-    name: "34. Eco-Friendly & Reusable Hospitality",
+    name: "Eco-Friendly & Reusable Hospitality",
     items: [
       "Reusable water bottles, carafes and refillable toiletry bottles",
       "Reusable cups, mugs, straws and food containers",
@@ -522,7 +355,7 @@ const catalogueData = [
     ]
   },
   {
-    name: "35. Religious, Cultural & Seasonal Supplies",
+    name: "Religious, Cultural & Seasonal Supplies",
     items: [
       "Prayer mats, storage accessories and suitable garments",
       "Directional signs and shoe racks",
@@ -534,7 +367,7 @@ const catalogueData = [
     ]
   },
   {
-    name: "36. Villas, Cottages & Homestay Supplies",
+    name: "Villas, Cottages & Homestay Supplies",
     items: [
       "Outdoor and balcony furniture, cushions and furniture covers",
       "Weatherproof storage, umbrellas and mosquito nets",
@@ -549,24 +382,7 @@ const catalogueData = [
     ]
   },
   {
-    name: "37. Larger Capital Equipment — Available on Enquiry",
-    items: [
-      "Commercial refrigeration, freezers and cold-storage equipment",
-      "Commercial ovens, ranges, fryers and kitchen production lines",
-      "Commercial dishwashers and glass washers",
-      "Industrial laundry washers, dryers and ironing equipment",
-      "Industrial vacuum cleaners and floor scrubbers",
-      "Water dispensers, treatment systems and water heaters",
-      "Boilers, HVAC equipment and commercial coffee machines",
-      "Ice machines, stainless-steel kitchen benches and sinks",
-      "Commercial shelving, preparation machines and buffet counters",
-      "Banquet furniture, spa equipment, gym equipment and pool equipment",
-      "CCTV systems, networking equipment and access-control systems",
-      "Commercial beds, mattresses, wardrobes and waste carts"
-    ]
-  },
-  {
-    name: "38. Spare Parts & Replacement Accessories",
+    name: "Spare Parts & Replacement Accessories",
     items: [
       "Mop heads, frames, handles, vacuum bags and filters",
       "Vacuum hoses, attachments, scrubber pads and brushes",
@@ -583,23 +399,7 @@ const catalogueData = [
     ]
   },
   {
-    name: "39. Guest Welcome Gifts & Promotional Supplies",
-    items: [
-      "Gift hampers, baskets, gift boxes and presentation packaging",
-      "Branded mugs, water bottles, travel cups and notebooks",
-      "Promotional pens, tote bags, drawstring bags and reusable bags",
-      "Branded towels, robes, slippers and amenity packaging",
-      "Amenity holders, welcome cards and thank-you cards",
-      "Feedback cards, local guides, maps and brochures",
-      "Branded umbrellas, ponchos and suitable souvenirs",
-      "Birthday, anniversary and honeymoon room decorations",
-      "Celebration trays, presentation boxes and loyalty cards",
-      "Promotional cards, QR display stands and guest-review stands",
-      "Branded uniforms, aprons and name badges"
-    ]
-  },
-  {
-    name: "40. Workplace Safety, Hygiene & Compliance",
+    name: "Workplace Safety, Hygiene & Compliance",
     items: [
       "Safety goggles, gloves, face shields, masks and protective clothing",
       "Non-slip footwear, ear protection and chemical-resistant gloves",
