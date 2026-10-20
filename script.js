@@ -325,7 +325,7 @@ const catalogueData = [
     ]
   },
   {
-    name: "32. Lobby, Entrance & Public Areas",
+    name: "Lobby, Entrance & Public Areas",
     items: [
       "Entrance mats, logo mats and dirt-control mats",
       "Lobby furniture, reception accessories and bell stands",
