@@ -184,22 +184,6 @@ const catalogueData = [
     ]
   },
   {
-    name: "12. Gym, Fitness & Recreation",
-    items: [
-      "Treadmills, exercise bikes and cross trainers",
-      "Dumbbells, kettlebells, weight plates and benches",
-      "Weight racks, yoga mats, Pilates mats and blocks",
-      "Resistance bands, skipping ropes, exercise balls and rollers",
-      "Gym towels, towel bins, water dispensers and bottle holders",
-      "Lockers, benches, hangers and shoe racks",
-      "Gym flooring, equipment mats and protective floor coverings",
-      "Equipment sanitizing wipes, sprays and microfiber cloths",
-      "Heart-rate monitors and fitness accessories",
-      "Table tennis, badminton, chess, carrom and board games",
-      "Pool tables, scoreboards, storage racks and sports bags"
-    ]
-  },
-  {
     name: "13. Fire Safety, Emergency & First Aid",
     items: [
       "Fire extinguishers, brackets, fire blankets and fire hoses",
