@@ -291,7 +291,7 @@ const catalogueData = [
     ]
   },
   {
-    name: "26. Garden, Landscaping & Outdoor Maintenance",
+    name: "Garden, Landscaping & Outdoor Maintenance",
     items: [
       "Gardening gloves, pruners, shears and spades",
       "Shovels, hoes, rakes, trowels and garden tools",
