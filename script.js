@@ -233,7 +233,7 @@ const catalogueData = [
     ]
   },
   {
-    name: "21. Disposable Products & Takeaway Packaging",
+    name: "Disposable Products & Takeaway Packaging",
     items: [
       "Paper cups, lids, cup sleeves, plates, bowls and trays",
       "Food containers, takeaway boxes, bags and napkins",
